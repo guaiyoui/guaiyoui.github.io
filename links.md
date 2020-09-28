@@ -2,12 +2,11 @@
 title: Links
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-
-<h2>Projects</h2>
+<h2>Useful links</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a></li>
+	<li><a href="https://aideadlin.es/?sub=CV,ML,NLP,RO,SP,GR,DM">AI conference deadline</a></li>
+	<li><a href="https://ogb.stanford.edu/">Open Graph Benchmark</a></li>
 </ul>
