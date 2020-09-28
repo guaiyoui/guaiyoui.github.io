@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resum
 
-url: https://guaiyoui.github.io/indigo
+url: https://guaiyoui.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
