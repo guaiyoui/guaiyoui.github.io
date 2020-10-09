@@ -5,6 +5,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p></p>
+I was born in Fujian Province, P.R. China on August 14. I am now study at Zhejiang University.
 
 <p>Here is my <a href="../files/cv.pdf">CV</a>.</p>
 
