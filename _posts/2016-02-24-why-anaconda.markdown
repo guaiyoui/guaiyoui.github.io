@@ -1,5 +1,5 @@
 ---
-title: "Why anaconda"
+title: "Why Anaconda"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
