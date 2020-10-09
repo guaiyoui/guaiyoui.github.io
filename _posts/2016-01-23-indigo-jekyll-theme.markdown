@@ -13,7 +13,7 @@ externalLink: false
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-[Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Ni hao [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
 ---
 
