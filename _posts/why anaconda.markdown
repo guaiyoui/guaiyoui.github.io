@@ -1,5 +1,5 @@
 ---
-title: "Markdown Extra Components"
+title: "Why anaconda"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
@@ -16,13 +16,21 @@ description: Markdown summary with different options
 ## Summary:
 
 You can pick as item to see how to apply in markdown.
-
+<a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>
 #### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
+- [Summary:](#Summary)
+    - [Especial Elements](#Especial-Elements)
+    - [External Elements](#External-Elements)
+- [Evidence](#Evidence)
+- [Side-by-side](#Side-by-side)
+- [Star](#Star)
+- [Especial Breaker](#Especial-Breaker)
+- [Spoiler](#Spoiler)
+- [Gist](#Gist)
+- [Codepen](#Codepen)
+- [Slideshare](#Slideshare)
+- [Videos](#Videos)
 
 #### External Elements
 - [Gist](#gist)
@@ -36,14 +44,26 @@ You can pick as item to see how to apply in markdown.
 
 You can try the evidence!
 
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-
-{% highlight html %}
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-{% endhighlight %}
-
----
-
+<a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>ence">Paragraphs can be written like so. A paragraph <a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>k of Markdown. A paragraph is what text will turn into <a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>reason it should become anything else.</span>
+<a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>
+<a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a> %}
+<a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>ence">Paragraphs can be written like so. A paragraph <a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>k of Markdown. A paragraph is what text will turn into <a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>reason it should become anything else.</span>
+<a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>}
+<a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>
+<a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>
+<a href="http://www.conferencelist.info/upcoming.html">Conference List
+    </a>
 ## Side-by-side
 
 Like the [Medium](https://medium.com/) component.
