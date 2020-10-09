@@ -6,7 +6,7 @@ layout: page
 
 <p></p>
 
-<p>Here is my <a href="files/cv.pdf">CV</a>.</p>
+<p>Here is my <a href="../files/cv.pdf">CV</a>.</p>
 
 <h2>Skills</h2>
 
