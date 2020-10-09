@@ -52,18 +52,12 @@ github: guaiyoui
 email: jianweiwang@zju.edu.cn
 
 authors:
-  johndoe:
+  jianweiwang:
     name: Jianwei Wang
-    bio: A Man who travels the world eating noodles
+    bio: fly and touch the sky
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: jianweiwang6
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
