@@ -9,6 +9,17 @@ I was born in Fujian Province, P.R. China on August 14. I am now study at Zhejia
 
 <p>Here is my <a href="../files/cv.pdf">CV</a>.</p>
 
+<h2>News</h2>
+
+<ul>
+	<li> [Jun 2021] I graduate from Chukochen college, Zhejiang University as an outstanding graduate</li>
+	<li> [Jul 2021] I receive UIPA scholarship from CSE, UNSW.</li>
+	<li> [Sep 2021] I start to study for PhD in CSE, UNSW.</li>
+	<!-- <li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li> -->
+</ul>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -18,11 +29,4 @@ I was born in Fujian Province, P.R. China on August 14. I am now study at Zhejia
 	<li>MySQL, MongoDB, Redis</li>
 </ul>
 
-<h2>Projects</h2>
 
-<ul>
-	<li> to be upadte </li>
-	<!-- <li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li> -->
-</ul>

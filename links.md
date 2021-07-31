@@ -9,4 +9,5 @@ layout: page
     </a></li>
 	<li><a href="https://aideadlin.es/?sub=CV,ML,NLP,RO,SP,GR,DM">AI conference deadline</a></li>
 	<li><a href="https://ogb.stanford.edu/">Open Graph Benchmark</a></li>
+	<li><a href="https://www.zhihu.com/people/wang-jian-wei-53-95">Zhihu Homepage</a></li>
 </ul>
