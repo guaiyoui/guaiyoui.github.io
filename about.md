@@ -31,12 +31,4 @@ I was born in Fujian Province, P.R. China on August 14. I am now study at Zhejia
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ury8RthMycIAOAK91EJSXjcq0zkFm-7hkSAKnJCLrB8&cl=ffffff&w=a"></script>
 
-<ul class="skill-list">
-	<li>Programming: C, C++, Python, JavaScript, Java, Linux shell, Arduino</li>
-	<li>Math and algorithmic competition</li>
-	<li>Scientific computing package: Numpy, Pandas</li>
-	<li>MySQL, MongoDB, Redis</li>
-</ul>
-
-<a href="https://clustrmaps.com/site/1bni8"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=ury8RthMycIAOAK91EJSXjcq0zkFm-7hkSAKnJCLrB8&cl=ffffff" /></a>
 
