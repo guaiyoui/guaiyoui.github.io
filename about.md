@@ -29,4 +29,5 @@ I was born in Fujian Province, P.R. China on August 14. I am now study at Zhejia
 	<li>MySQL, MongoDB, Redis</li>
 </ul>
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ury8RthMycIAOAK91EJSXjcq0zkFm-7hkSAKnJCLrB8&cl=ffffff&w=a"></script>
 
